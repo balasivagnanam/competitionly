@@ -16,7 +16,7 @@ page_sections:
   - link: "#contact"
     link_text: Contact Us
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
+    url: https://formspree.io/xdowoaov
     button_text: Get Started
 - template: hero-banner-w-image
   block: hero-2
@@ -25,7 +25,7 @@ page_sections:
     you name it we got it sorted for you.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: https://formspree.io/xdowoaov
     button_text: Get Started
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
@@ -74,7 +74,7 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Created with ❤︎ by Competition.ly Pte. Ltd.
 
 ---
 foo bar
